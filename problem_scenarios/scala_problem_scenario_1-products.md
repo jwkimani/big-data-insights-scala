@@ -1,34 +1,27 @@
 # Problem Scenario 1
-This problem has three parts:
+
+__Problem:__ *Given csv files with product information from a pen company, provide some insights using big data technologies*
+   
+__Solution Package__ *Click [here]()*
+
+__Package name:__ *com.jwk.development.big_data_insights.scala.products.problem_scenario.problem_scenario_One*
+    
+__Driver/Main class:__ *com.jwk.development.big_data_insights.scala.products.driver.run_problem_scenario_one*
+
+
 ##
+This problem has three parts hence the solutions are broken into three different modules in the package:
 1. [Part One](#part1)
    
 2. [Part Two](#part2)
    
 3. [Part Three](#part3)
 
-## Part One <a name="part1"></a>
+## Part One <a name="part1"></a>   
+ [solution](https://github.com/jwkimani/big-data-insights-scala/blob/master/src/main/scala/com/jwk/development/big_data_insights/scala/products/problem_scenario_One.scala)
 
 You have the following tab delimited csv file [products.csv](https://github.com/jwkimani/big-data-insights-scala/blob/master/insight_data/products.csv)
 
-``` 
-products.csv
-
-+---------+-----------+---------+--------+-------+
-|productID|productCode|     name|quantity|  price|
-+---------+-----------+---------+--------+-------+
-|     1001|        PEN|  Pen Red|    5000|   1.23|
-|     1002|        PEN| Pen Blue|    8001|   1.25|
-|     1003|        PEN|Pen Black|    2000|   1.25|
-|     1004|        PEC|Pencil 2B|   10000|   0.48|
-|     1005|        PEC|Pencil 2H|    8000|   0.49|
-|     1006|        PEC|Pencil HB|       0|9999.99|
-|     2001|        PEC|Pencil 3B|     500|   0.52|
-|     2002|        PEC|Pencil 4B|     200|   0.62|
-|     2003|        PEC|Pencil 5B|     100|   0.73|
-|     2004|        PEC|Pencil 6B|     500|   0.47|
-+---------+-----------+---------+--------+-------+
-```
 Using Spark and SparkSQL perform the following tasks: 
 1. Load the csv file to a dataframe 
     
@@ -224,7 +217,7 @@ Using Spark and SparkSQL perform the following tasks:
 
 
 ## Part Two <a name="part2"></a>
-
+[solution]()
 You have been provided two additional files:
 
 1. [suppliers.csv](https://github.com/jwkimani/big-data-insights-scala/blob/master/insight_data/supplier.csv)

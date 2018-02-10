@@ -1,15 +1,15 @@
-package com.jwk.development.big_data_insights.scala.products
+package com.jwk.development.big_data_insights.scala.products.problem_scenario
 
 import org.apache.spark.sql.types._
 import org.apache.spark.sql.{DataFrame, SaveMode, SparkSession}
 
-class problem_scenario_One {
+class part_One {
   val spark: SparkSession = SparkSession.builder.appName("products_application").config("spark.serializer", "org.apache.spark.serializer.KryoSerializer").getOrCreate()
   val sparkContext = spark.sparkContext
   val sqlContext = new org.apache.spark.sql.SQLContext(sparkContext)
 
 
-  def problem_scenario1(path: String): Unit = {
+  def part_One_Solution(path: String): Unit = {
     //val tab_delimited_Header= "productID\tproductCode\tname\tquantity\tprice\tsupplierid"
     //val comma_delimited_Header= "productID,productCode,name,quantity,price,supplierid"
 
