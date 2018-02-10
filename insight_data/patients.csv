@@ -1,0 +1,7 @@
+﻿patientID,name               ,address                                 ,dateOfBirth,lastVisitDate
+1001     ,Homer Simpson      ,"123 Blue St.,Los Angeles, CA 12345"    ,1989-12-31 ,2017-01-21
+1002     ,Peter Griffin      ,"234 Brown St., San Fransisco, CA 23456",1950-01-30 ,2015-04-18
+1003     ,Hubert J. Fansworth,"546 Red Dr., Sacramento, CA 54678"     ,1978-08-21 ,2017-02-14
+1004     ,Marge Simpson      ,"123 Blue St.,Los Angeles, CA 12345"    ,1990-03-18 ,2016-02-15
+1005     ,Bender Rodriguez   ,"127 Brown St., Charlotte, NC 28223"    ,1986-12-31 ,2013-12-14
+1006     ,Turanga Leela      ,"128 Brown St., Charlotte, NC 28223"    ,1978-08-21 ,2012-09-15
