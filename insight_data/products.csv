@@ -1,0 +1,11 @@
+productID	productCode	name	quantity	price	supplierid
+1001	PEN	Pen Red	5000	1.23	501
+1002	PEN	Pen Blue	8001	1.25	501
+1003	PEN	Pen Black	2000	1.25	501
+1004	PEC	Pencil 2B	10000	0.48	502
+1005	PEC	Pencil 2H	8000	0.49	502
+1006	PEC	Pencil HB	0	9999.99	502
+2001	PEC	Pencil 3B	500	0.52	501
+2002	PEC	Pencil 4B	200	0.62	501
+2003	PEC	Pencil 5B	100	0.73	501
+2004	PEC	Pencil 6B	500	0.47	502
