@@ -9,30 +9,29 @@ Each problem scenario will contain a main class in the *com.jwk.development.big_
 Each problem contains a problem scenario detail and result sheet.
 
 ### 1. Product Data for a pen company 
-    
-    Problem: Given csv files with product information from a pen company, provide some insights using big data technologies
-    
-    Package name: *com.jwk.development.big_data_insights.scala.products.problem_scenario_One*
-    
-    Driver/Main class: *com.jwk.development.big_data_insights.scala.products.driver.run_problem_scenario_one*
+   Problem: Given csv files with product information from a pen company, provide some insights using big data technologies
    
-    Link to result sheet and detailed problem scenarions:
+   Package name: *com.jwk.development.big_data_insights.scala.products.problem_scenario_One*
     
-     [Part One]()
+   Driver/Main class: *com.jwk.development.big_data_insights.scala.products.driver.run_problem_scenario_one*
+   
+   Link to result sheet and detailed problem scenarions:[problem_scenario](https://github.com/jwkimani/big-data-insights-scala/blob/master/problem_scenarios/scala_problem_scenario_1-products.md)
+    
+   [Part One](https://github.com/jwkimani/big-data-insights-scala/blob/master/problem_scenarios/scala_problem_scenario_1-products.md#part1)
      
-     [Part Two]()
+   [Part Two](https://github.com/jwkimani/big-data-insights-scala/blob/master/problem_scenarios/scala_problem_scenario_1-products.md#part2)
      
-     [Part Three]()
+   [Part Three](https://github.com/jwkimani/big-data-insights-scala/blob/master/problem_scenarios/scala_problem_scenario_1-products.md#part3)
 
 ### 2. Patient Data
 
-    Problem: **
+   Problem: **
         
-    Package name: **
+   Package name: **
         
-    Driver/Main class: **
+   Driver/Main class: **
 
-    Link to result sheet and detailed problem scenarions:
+   Link to result sheet and detailed problem scenarions:
 
 
 ## Troubleshooting

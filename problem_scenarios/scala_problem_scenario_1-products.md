@@ -1,4 +1,4 @@
-#Problem Scenario 1
+# Problem Scenario 1
 This problem has three parts:
 ##
 1. [Part One](#part1)
@@ -7,8 +7,9 @@ This problem has three parts:
    
 3. [Part Three](#part3)
 
-##Part One <a name="part1"></a>
-You have the following file [link to /insight_data/products.csv](#/insight_data/products.csv)
+## Part One <a name="part1"></a>
+
+You have the following tab delimited csv file [products.csv](https://github.com/jwkimani/big-data-insights-scala/blob/master/insight_data/products.csv)
 
 ``` 
 products.csv
@@ -222,12 +223,13 @@ Using Spark and SparkSQL perform the following tasks:
 24. Select maximum, minimum average and total of all the products for each code. Also produce the same across all the products 
 
 
-##Part Two <a name="part2"></a>
+## Part Two <a name="part2"></a>
+
 You have been provided two additional files:
 
-1. [link to insights_data/products_suppliers.csv]()
+1. [suppliers.csv](https://github.com/jwkimani/big-data-insights-scala/blob/master/insight_data/supplier.csv)
 
-2. [link to insights_data/products.csv]()
+2. [products_suppliers.csv](https://github.com/jwkimani/big-data-insights-scala/blob/master/insight_data/products_suppliers.csv)
 
 
 Now accomplish all the queries. 
@@ -243,7 +245,7 @@ each supplier.
 4. Find all the products , which are supplied by ABC Traders _ 
 
 
-##Part Three <a name="part3"></a>
+## Part Three <a name="part3"></a>
 1. Create a Hive ORC table using SparkSQL
 
 2. Load this data in Hive table.
@@ -251,7 +253,7 @@ each supplier.
 3. Create a Hive parquet table using SparkSQL and load data in it.
 
 
-##Developer Notes:
+## Developer Notes:
 Add the following VM options arguments to set spark master 
 ```
 -Dspark.master=local
