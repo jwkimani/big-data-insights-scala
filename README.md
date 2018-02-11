@@ -3,11 +3,11 @@ personal solutions to big data problem scenarios using scala
 
 ## Problem Scenarios
 
-### 1. [Product Data for a pen company](https://github.com/jwkimani/big-data-insights-scala/blob/master/problem_scenarios/scala_problem_scenario_1-products.md) 
+### 1. [Product Data for a pen company](https://github.com/jwkimani/big-data-insights-scala/blob/master/problem_scenarios/products.md) 
    
-### 2. [Patient Data]()
+### 2. [Patient Data](https://github.com/jwkimani/big-data-insights-scala/blob/master/problem_scenarios/patient_data.md)
 
-### 3. [RDD (resilient distributed dataset) Operations]()
+### 3. [RDD (resilient distributed dataset) Operations](https://github.com/jwkimani/big-data-insights-scala/blob/master/problem_scenarios/rdd_operations.md)
 
 
 ## Troubleshooting

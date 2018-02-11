@@ -1,9 +1,12 @@
-#Problem Scenario: RDD Operations
-__Problem:__ **
+# Problem Scenario: RDD Operations
+
+ __Problem:__ **
     
-__Package name:__ **
+ __Package name:__ **
     
-__Driver/Main class:__ **
+ __Driver/Main class:__ **
+
+ __solution:__**
 
 
 1. You have been given below code snippet 
