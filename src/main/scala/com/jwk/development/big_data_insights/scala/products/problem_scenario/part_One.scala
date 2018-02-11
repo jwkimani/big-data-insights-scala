@@ -9,6 +9,11 @@ class part_One {
   val sqlContext = new org.apache.spark.sql.SQLContext(sparkContext)
 
 
+  /**
+    * Solution to part one of products problem scenario
+    *
+    * @param path file path to products.csv file
+    */
   def part_One_Solution(path: String): Unit = {
     //val tab_delimited_Header= "productID\tproductCode\tname\tquantity\tprice\tsupplierid"
     //val comma_delimited_Header= "productID,productCode,name,quantity,price,supplierid"

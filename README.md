@@ -1,11 +1,14 @@
 # big-data-insights-scala
 personal solutions to big data problem scenarios using scala 
 
-## Project Structure
+## Problem Scenarios
 
-### 1. Product Data for a pen company 
+### 1. [Product Data for a pen company](https://github.com/jwkimani/big-data-insights-scala/blob/master/problem_scenarios/scala_problem_scenario_1-products.md) 
    
-### 2. Patient Data
+### 2. [Patient Data]()
+
+### 3. [RDD (resilient distributed dataset) Operations]()
+
 
 ## Troubleshooting
 1. When running applications if below error occurs: *A master URL must be set in your configuration*
