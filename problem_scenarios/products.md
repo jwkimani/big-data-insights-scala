@@ -1,13 +1,12 @@
 # Problem Scenario 1
 
 __Problem:__ *Given csv files with product information from a pen company, provide some insights using big data technologies*
-   
-__Solution Package__ *Click [here]()*
 
-__Package name:__ *com.jwk.development.big_data_insights.scala.products.problem_scenario.problem_scenario_One*
+__Package name:__ *[com.jwk.development.big_data_insights.scala.products](https://github.com/jwkimani/big-data-insights-scala/tree/master/src/main/scala/com/jwk/development/big_data_insights/scala/products)*
     
-__Driver/Main class:__ *com.jwk.development.big_data_insights.scala.products.driver.run_problem_scenario_one*
+__Driver/Main class:__ *[com.jwk.development.big_data_insights.scala.products.driver](https://github.com/jwkimani/big-data-insights-scala/tree/master/src/main/scala/com/jwk/development/big_data_insights/scala/products/driver)*
 
+__Solution Package__ *[com.jwk.development.big_data_insights.scala.products.problem_scenario](https://github.com/jwkimani/big-data-insights-scala/tree/master/src/main/scala/com/jwk/development/big_data_insights/scala/products/problem_scenario)*
 
 ##
 This problem has three parts hence the solutions are broken into three different modules in the package:
@@ -17,8 +16,11 @@ This problem has three parts hence the solutions are broken into three different
    
 3. [Part Three](#part3)
 
-## Part One <a name="part1"></a>   
- [solution](https://github.com/jwkimani/big-data-insights-scala/blob/master/src/main/scala/com/jwk/development/big_data_insights/scala/products/problem_scenario_One.scala)
+## Part One <a name="part1"></a>
+    
+__Driver/Main class:__ *[com.jwk.development.big_data_insights.scala.products.driver](https://github.com/jwkimani/big-data-insights-scala/blob/master/src/main/scala/com/jwk/development/big_data_insights/scala/products/driver/run_problem_scenario_part_One.scala)*
+
+__Solution Package__ *[com.jwk.development.big_data_insights.scala.products.problem_scenario](https://github.com/jwkimani/big-data-insights-scala/blob/master/src/main/scala/com/jwk/development/big_data_insights/scala/products/problem_scenario/part_One.scala)*
 
 You have the following tab delimited csv file [products.csv](https://github.com/jwkimani/big-data-insights-scala/blob/master/insight_data/products.csv)
 
@@ -217,7 +219,12 @@ Using Spark and SparkSQL perform the following tasks:
 
 
 ## Part Two <a name="part2"></a>
-[solution]()
+__Package name:__ *[com.jwk.development.big_data_insights.scala.products]()*
+    
+__Driver/Main class:__ *[com.jwk.development.big_data_insights.scala.products.driver]()*
+
+__Solution Package__ *[com.jwk.development.big_data_insights.scala.products.problem_scenario]()*
+
 You have been provided two additional files:
 
 1. [suppliers.csv](https://github.com/jwkimani/big-data-insights-scala/blob/master/insight_data/supplier.csv)
